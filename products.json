@@ -1,0 +1,62 @@
+[
+  {
+    "productId": 1,
+    "productName": "Veg Rolls",
+    "description": "Good for vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 2,
+    "productName": "Chicken Manchuria",
+    "description": "Preferred by Non Vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 3,
+    "productName": "Noodles",
+    "description": "Comes under Snacks",
+    "Stock": false
+  },
+  {
+    "productId": 4,
+    "productName": "Paneer Tikka",
+    "description": "Healthy protein-rich snack",
+    "Stock": true
+  },
+  {
+    "productId": 5,
+    "productName": "French Fries",
+    "description": "Crispy and tasty",
+    "Stock": true
+  },
+  {
+    "productId": 6,
+    "productName": "Chicken Wings",
+    "description": "Best for spicy lovers",
+    "Stock": false
+  },
+  {
+    "productId": 7,
+    "productName": "Burger",
+    "description": "Fast food item",
+    "Stock": true
+  },
+  {
+    "productId": 8,
+    "productName": "Pasta",
+    "description": "Cheesy delicious pasta",
+    "Stock": true
+  },
+  {
+    "productId": 9,
+    "productName": "Sandwich",
+    "description": "Healthy breakfast option",
+    "Stock": true
+  },
+  {
+    "productId": 10,
+    "productName": "Chicken Biryani",
+    "description": "Hyderabad special biryani",
+    "Stock": true
+  }
+]
